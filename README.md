@@ -1,6 +1,6 @@
 # To-Do Application with CRUD functionalities
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://todo-app-project-crud.netlify.app/).
 
 ## [Live Demo Click Here](https://to-do-application-project.netlify.app/).
 
