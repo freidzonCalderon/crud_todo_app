@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://todo-app-project-crud.netlify.app/).
 
-## [Live Demo Click Here](https://to-do-application-project.netlify.app/).
+## [Live Demo Click Here](https://todo-app-project-crud.netlify.app/).
 
 This is a simple To-Do app where you can manage daily tasks. You can create, read, update, and delete (CRUD) your todos using a user-friendly interface built with React JS and Bootstrap. React JS is a JavaScript library for building user interfaces. Bootstrap is one of the most popular CSS libraries for developing responsive, mobile-first projects on the web. With this app, you can easily mark them as completed or pending, edit them as you wish, and delete them when you are done.
 
